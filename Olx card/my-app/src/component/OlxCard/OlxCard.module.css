@@ -1,0 +1,76 @@
+.OlxCard {
+    display: flex; 
+    align-items: top; 
+    margin: 20px;
+    width: 1000px;
+    height: 150px; 
+    background-color: rgb(242, 244, 245);
+    border-radius: 0px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    
+  }
+  
+
+.carImg{
+    height: 150px;
+    border-radius: 5px;
+}
+
+.buttonInImgDel{
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 170px;
+    border-radius: 100%;
+    padding: 3px;
+}
+
+.divTittle{
+    font-size: 20px;
+    margin-left: 10px;
+    width: 400px;
+    color: rgb(0, 47, 52);
+    font-weight: 400;
+}
+
+.newText{
+    padding-left: 7px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color:  rgb(218, 218, 218);
+    width: 45px;
+    border-radius: 5px;
+    font-weight: 200;
+}
+
+.dateAndLock{
+    color:  rgb(147, 147, 147);
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 60px;
+}
+.price {
+    font-size: 18px;
+    line-height: 20px;
+    color: rgb(0, 47, 52);
+    margin-left: 280px;
+    font-weight: 700;
+}
+
+.imgpricedel{
+    position: absolute;
+    height: 40px;
+    margin-top: -2px;
+    margin-left: 257px;
+    padding: 3px;
+}
+
+.like{
+    margin-left: 350px;
+    font-size: 30px;
+    margin-top: 90px;
+}
